@@ -1,7 +1,19 @@
 ### Hi there 👋
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">
 
-
+<div class="bg-dark text-secondary px-4 py-5 text-center">
+    <div class="py-5">
+      <h1 class="display-5 fw-bold text-white">Dark mode hero</h1>
+      <div class="col-lg-6 mx-auto">
+        <p class="fs-5 mb-4">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
+        <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+          <button type="button" class="btn btn-outline-info btn-lg px-4 me-sm-3 fw-bold">Custom button</button>
+          <button type="button" class="btn btn-outline-light btn-lg px-4">Secondary</button>
+        </div>
+      </div>
+    </div>
+  </div>
 
 <h1>My skills</h1>
 
@@ -12,7 +24,6 @@
 ![pv](https://pageview.vercel.app/?github_user=AlexeyTuralysov)
 
 
-   
 
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=AlexeyTuralysov&amp;show_icons=true" alt="GitHub Stats"><p>
@@ -20,8 +31,8 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyTuralysov&layout=compact&langs_count=8&card_width=445"></p>
 
-***Connect with me***
 
+<h2>Connect with me</h2>
 <br />
 
 <a href="https://vk.com/schengen_anarhist" alt="vk" target="_blank">
@@ -37,6 +48,12 @@
 
 <br />
 <br />
+
+
+
+
+
+
 
 
 
