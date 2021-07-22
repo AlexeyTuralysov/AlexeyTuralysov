@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-***Жирный наклонный текст (bold italic)***
 
 
 
@@ -21,8 +20,8 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyTuralysov&layout=compact&langs_count=8&card_width=445"></p>
 
+***Connect with me***
 
-<h2>Connect with me</h2>
 <br />
 
 <a href="https://vk.com/schengen_anarhist" alt="vk" target="_blank">
