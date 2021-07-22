@@ -13,6 +13,24 @@
 ![pv](https://pageview.vercel.app/?github_user=AlexeyTuralysov)
 
 
+<style>
+  p {
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+  </style>  
 
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=AlexeyTuralysov&amp;show_icons=true" alt="GitHub Stats"><p>
