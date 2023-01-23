@@ -23,22 +23,6 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyTuralysov&layout=compact&langs_count=8&card_width=445"></p>
 
 
-<h2>Connect with me</h2>
-<br />
-
-<a href="https://vk.com/schengen_anarhist" alt="vk" target="_blank">
-  <img src="https://cdn.freebiesupply.com/images/large/2x/vk-logo-transparent.png" height="40" />
-</a>
-<a href="mailto:alexeyturalysov@gmail.com">
-  <img src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63" height="40" />
-</a>
-</a>
-<a href="mailto:alexeyturalysov@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" height="40" />
-</a>
-
-<br />
-<br />
 
 
 
