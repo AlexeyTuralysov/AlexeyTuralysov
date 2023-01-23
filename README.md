@@ -4,7 +4,7 @@
 <img src="icons\SHENGEN.png" alt="GitHub Stats">
 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/AlexeyTuralysov/AlexeyTuralysov)
+
 ![pv](https://pageview.vercel.app/?github_user=AlexeyTuralysov)
 
 <h1>My skills</h1>
