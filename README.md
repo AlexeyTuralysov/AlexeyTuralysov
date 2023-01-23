@@ -1,7 +1,7 @@
 
 
 
-<img src="icons\SHENGEN.png" alt="GitHub Stats">
+
 
 
 
