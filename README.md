@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=F7B700&width=435&lines=Hi%2C+I'm+Alexey%2C+and+I+work+in+web+development.)](https://git.io/typing-svg)
 
+## Подробнее [обо мне][https://www.figma.com/design/luVdhjB2tPR1Tzf2vPbHxl/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%A2%D1%83%D1%80%D0%B0%D0%BB%D1%8B%D1%81%D0%BE%D0%B2-%D0%98%D1%81%D0%B8%D0%BF22-1?node-id=0-1&p=f&t=otJRfv2nneSVSH9n-0]
+
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)
@@ -16,3 +19,4 @@
 
 
 ![AlexeyTuralysov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyTuralysov&theme=merko&show_icons=true&hide_border=true&layout=compact)
+
